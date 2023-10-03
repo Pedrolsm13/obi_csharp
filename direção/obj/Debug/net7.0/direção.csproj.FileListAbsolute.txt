@@ -1,0 +1,14 @@
+C:\Users\fiscal4\Workspace\obi_csharp\direção\bin\Debug\net7.0\direção.exe
+C:\Users\fiscal4\Workspace\obi_csharp\direção\bin\Debug\net7.0\direção.deps.json
+C:\Users\fiscal4\Workspace\obi_csharp\direção\bin\Debug\net7.0\direção.runtimeconfig.json
+C:\Users\fiscal4\Workspace\obi_csharp\direção\bin\Debug\net7.0\direção.dll
+C:\Users\fiscal4\Workspace\obi_csharp\direção\bin\Debug\net7.0\direção.pdb
+C:\Users\fiscal4\Workspace\obi_csharp\direção\obj\Debug\net7.0\direção.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fiscal4\Workspace\obi_csharp\direção\obj\Debug\net7.0\direção.AssemblyInfoInputs.cache
+C:\Users\fiscal4\Workspace\obi_csharp\direção\obj\Debug\net7.0\direção.AssemblyInfo.cs
+C:\Users\fiscal4\Workspace\obi_csharp\direção\obj\Debug\net7.0\direção.csproj.CoreCompileInputs.cache
+C:\Users\fiscal4\Workspace\obi_csharp\direção\obj\Debug\net7.0\direção.dll
+C:\Users\fiscal4\Workspace\obi_csharp\direção\obj\Debug\net7.0\refint\direção.dll
+C:\Users\fiscal4\Workspace\obi_csharp\direção\obj\Debug\net7.0\direção.pdb
+C:\Users\fiscal4\Workspace\obi_csharp\direção\obj\Debug\net7.0\direção.genruntimeconfig.cache
+C:\Users\fiscal4\Workspace\obi_csharp\direção\obj\Debug\net7.0\ref\direção.dll
