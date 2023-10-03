@@ -14,11 +14,17 @@ class Program{
         int direcao = Array.IndexOf(bussola, entrada[1]);
         int resp = 0;
 
-        if (local < direcao){
+        if (local < direcao && (direcao - local) <= 2){
             resp = (direcao - local)* 90;
         }
-        else if (local > direcao){
+        else if (local > direcao && (direcao - local) >= -2){
             resp = (direcao - local)* 90;
+        }
+        else if (local < direcao && (direcao - local) > 2){
+            resp = -90;
+        }
+        else if (local > direcao && (direcao - local) < -2){
+            resp = 90;
         }
         else{
             resp = 0;
